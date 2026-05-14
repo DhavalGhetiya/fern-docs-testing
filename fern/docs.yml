@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://schema.buildwithfern.dev/docs-yml.json
 
 instances:
-  - url: fern-docs-testing.docs.buildwithfern.com # update this to {yourorg}.docs.buildwithfern.com
+  - url: dhaval-332753.docs.buildwithfern.com # update this to {yourorg}.docs.buildwithfern.com
     # custom-domain: plantstore.dev # specify your custom domain when you are ready to go live
 
 title: Fern Docs Starter
